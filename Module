@@ -52,9 +52,9 @@ getgenv().Module = {
     --
     ShowFOV = false,
     --
-    FOV = 100,
+    FOV = 30,
     --
-    FOVSides = 0,
+    FOVSides = 10,
     --
     FOVColour = Color3fromRGB(0, 0, 0),
     --
